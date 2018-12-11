@@ -1,0 +1,43 @@
+#
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:project.work,cost:"
+msgid "Cost"
+msgstr "Náklady"
+
+msgctxt "field:project.work,currency_digits:"
+msgid "Currency Digits"
+msgstr ""
+
+msgctxt "field:project.work,list_price:"
+msgid "List Price"
+msgstr "Cenník"
+
+msgctxt "field:project.work,product:"
+msgid "Product"
+msgstr "Produkt"
+
+msgctxt "field:project.work,purchase_lines:"
+msgid "Purchase Lines"
+msgstr "Riadky nákupu"
+
+msgctxt "field:project.work,revenue:"
+msgid "Revenue"
+msgstr "Výnos"
+
+msgctxt "field:purchase.line,work:"
+msgid "Work Effort"
+msgstr "Pracovné úsilie"
+
+msgctxt "help:purchase.line,work:"
+msgid "Add to the cost of the work effort."
+msgstr "Pridaj ku nákladom pracovnému úsiliu."
+
+msgctxt "view:project.work:"
+msgid "Purchases"
+msgstr "Nákupy"
+
+msgctxt "view:purchase.line:"
+msgid "Project"
+msgstr "Projekt"
